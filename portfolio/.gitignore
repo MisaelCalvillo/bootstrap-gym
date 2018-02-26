@@ -1,0 +1,10 @@
+
+# Git will ignore these files and folders #
+# These folders will be filled when "npm start" commands runs #
+
+/node_modules
+src/css
+src/fonts
+src/js
+
+*.DS_Store
