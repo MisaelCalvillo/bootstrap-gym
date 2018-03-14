@@ -1,0 +1,22 @@
+# Files to ignore in every folder inside the repo bootstrap-gym #
+# Git will ignore these files and folders #
+# These folders will be filled when "npm start" commands runs #
+
+
+**/node_modules
+**/.vscode
+
+**/src/css/bootstrap.css
+**/src/css/font-awesome.min.css
+**/src/css/style.css
+
+
+**/src/fonts
+
+**/src/js/bootstrap.min.js
+**/src/js/jquery.min.js
+**/src/js/popper.min.js
+
+**/*.DS_Store
+
+**/package-lock.json
